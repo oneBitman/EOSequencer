@@ -36,7 +36,7 @@ To build and run EOSequencer, you will need:
 1. **Download & Install Arduino IDE** (v1.8.x or v2.x).
 2. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/EOSequencer.git
+   git clone https://github.com/oneBitman/EOSequencer.git
    ```
 3. **Install Required Libraries:**
    Ensure the following libraries are installed in your Arduino library manager:
